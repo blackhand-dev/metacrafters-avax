@@ -82,3 +82,4 @@ After copying it, compiling it will make the contract deployable and ready for i
 John Felix M. Agda
 202011499@fit.edu.ph
 BSCSSE
+FEU Institute of Technology
